@@ -2,7 +2,7 @@
 Repo ini digunakan untuk latihan pengenalan database.
 
 ## Intruksi
-Pada repo ini terdapat satu file sql (sistem_peminjaman_buku.sql) yang berisikan:
+Pada repo ini terdapat satu file sql [(sistem_peminjaman_buku.sql)](sistem_peminjaman_buku.sql) yang berisikan:
 - tabel books
 - tabel users
 - tabel loans
